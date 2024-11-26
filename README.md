@@ -1,9 +1,9 @@
-# sdg-course-filtering
-Jupyter Notebook used to filter and categorize university courses based on their alignment with the UN Sustainable Development Goals. This project was part of a winning case competition at UIUC.
-
 # SDG Course Filtering
 
-This repository contains a Jupyter Notebook developed to filter and categorize university courses based on the UN Sustainable Development Goals (SDGs). The project was part of a case competition at UIUC, which our team won.
+This repository contains a Jupyter Notebook developed to filter and categorize university courses based on their alignment with the UN Sustainable Development Goals (SDGs). This project was part of the **2024 Business Sustainability Case Competition** at the University of Illinois, where our team won first place. 🎉
+
+## Achievement
+Our project was recognized for its innovative approach and impactful analysis. Read more about the competition and our success in this [article by Gies College of Business](https://giesbusiness.illinois.edu/news/2024/05/10/gies-students-shine-in-2024-business-sustainability-case-competition).
 
 ## Objectives
 - Automate the filtering of course data based on SDG-related keywords.
